@@ -1,3 +1,7 @@
+0.2.0 - Fri Mar 21 03:40:00 2020 +0000
+
+    bugfix - starts dash 0.15 using start_dashd
+
 0.1.28 -  Wed Apr 3 13:00:24 2019 +0000
 
     enh - use protx registration for masternode status
