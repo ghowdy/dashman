@@ -11,7 +11,7 @@ DASH wallet/daemon management utilities - version 0.2.0
 To install dashman do:
 
     sudo apt-get install python git unzip pv
-    cd ~ && git clone https://github.com/moocowmoo/dashman
+    cd ~ && git clone https://github.com/ghowdy/dashman
 
 To update your existing version 12 32/64bit linux dash wallet to the latest
 dashd, do:
@@ -92,24 +92,24 @@ given the optional 'now' argument.
 
 ### install
 
-<img src="https://raw.githubusercontent.com/moocowmoo/dashman/master/screencaps/dashman_0.1-install.png">
+<img src="https://raw.githubusercontent.com/ghowdy/dashman/master/screencaps/dashman_0.1-install.png">
 
 ### update
 
-<img src="https://raw.githubusercontent.com/moocowmoo/dashman/master/screencaps/dashman_0.1-update.png">
+<img src="https://raw.githubusercontent.com/ghowdy/dashman/master/screencaps/dashman_0.1-update.png">
 
 ### reinstall
 
-<img src="https://raw.githubusercontent.com/moocowmoo/dashman/master/screencaps/dashman_0.1-reinstall.png">
+<img src="https://raw.githubusercontent.com/ghowdy/dashman/master/screencaps/dashman_0.1-reinstall.png">
 
 ### restart
 
-<img src="https://raw.githubusercontent.com/moocowmoo/dashman/master/screencaps/dashman_0.1-restart.png">
+<img src="https://raw.githubusercontent.com/ghowdy/dashman/master/screencaps/dashman_0.1-restart.png">
 
 ### status
 
-<img src="https://raw.githubusercontent.com/moocowmoo/dashman/master/screencaps/dashman_0.1-status.png">
+<img src="https://raw.githubusercontent.com/ghowdy/dashman/master/screencaps/dashman_0.1-status.png">
 
 # Contact
 
-Email me at moocowmoo@masternode.me or submit a pull request.
+Email me at ghowdy@protonmail.com or submit a pull request.
