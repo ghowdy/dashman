@@ -1,3 +1,7 @@
+0.2.1 - Fri Mar 21 03:40:00 2020 +0000
+
+    bugfix - changed github urls to ghowdy
+
 0.2.0 - Fri Mar 21 03:40:00 2020 +0000
 
     bugfix - starts dash 0.15 using start_dashd
