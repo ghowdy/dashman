@@ -598,7 +598,7 @@ update_dashd(){
 
         pending " --> ${messages["launching"]} dashd... "
         touch $INSTALL_DIR/dashd.pid
-        $INSTALL_DIR/dashd > /dev/null
+        $INSTALL_DIR/start_dashd > /dev/null
         ok "${messages["done"]}"
 
         # probe it ---------------------------------------------------------------
@@ -872,7 +872,7 @@ install_dashd(){
     # punch it ---------------------------------------------------------------
 
     pending " --> ${messages["launching"]} dashd... "
-    $INSTALL_DIR/dashd > /dev/null
+    $INSTALL_DIR/start_dashd > /dev/null
     DASHD_RUNNING=1
     ok "${messages["done"]}"
 
